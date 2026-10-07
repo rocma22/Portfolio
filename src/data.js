@@ -47,4 +47,4 @@ export const EXPERIENCE = [
     "Handled support tickets for production teams."] },
 ];
 export const SPOKEN = [["Arabic", "Native", 100], ["English", "B2 · professional working", 75], ["French", "Reading & writing", 65]];
-export const CODE_LANGS = ["JavaScript", "TypeScript", "PHP", "SQL", "HTML5", "CSS3"];
+export const CODE_LANGS = ["JavaScript", "TypeScript", "PHP", "SQL", "HTML5", "CSS3","MYSQL", "MongoDB", "Node.js", "Express.js", "React", "Tailwind CSS"];
