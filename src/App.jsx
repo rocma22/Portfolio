@@ -120,7 +120,7 @@ export default function App() {
             <h1>{t.h1}</h1>
             <div className="cta">
               <a className="btn" href="#contact">{t.hire}</a>
-              <a className="btn ghost" href={LINKS.cv} download onClick={() => setToast(t.cvT)}>{t.cv}</a>
+              <a className="btn ghost" href={LINKS.cv} download="Amine-Hasnat-CV.pdf" onClick={() => setToast(t.cvT)}>{t.cv}</a>
             </div>
           </div>
           <pre className="code" aria-label="profile"><code>{"const profile = "}{typed}<i className="caret" /></code></pre>
